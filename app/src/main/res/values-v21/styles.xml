@@ -92,7 +92,7 @@
     <item name="buttonBarNeutralButtonStyle">@style/NeutralButtonStyle</item>
     <item name="android:textColorAlertDialogListItem">@color/white</item>
     <item name="android:windowBackground">@color/cardview_dark_background</item>
-    <item name="android:textColorSecondary">@color/primary_light</item>
+    <item name="android:textColorSecondary">@color/accent</item>
   </style>
 
   <style name="NegativeButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
